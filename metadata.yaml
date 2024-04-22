@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7429'
     url: http://www.gutenberg.org/2009/agents/7429
     wikipedia: https://en.wikipedia.org/wiki/Arthur_I._Keller
+covers:
+- cover_type: archival
+  image_path: 73165-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Potter, Margaret Horton
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25023
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Horton_Potter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73165#The-House-of-de-Mailly-b-A-romance
 gutenberg_issued: '2024-03-14'
 gutenberg_type: Text
 identifiers:
